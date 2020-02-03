@@ -9,3 +9,5 @@ print("\n".join(dirs))
 
 print("dirs ^^^")
 # Comment
+
+print("Last checkout")
