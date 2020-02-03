@@ -9,3 +9,5 @@ print("New Commit")
 print(""" Google Account
           Microsoft Account
           GitHub Account    """)
+
+a = [x for x in range(100)]          
