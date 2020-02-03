@@ -1,4 +1,6 @@
 import os
+import matplotlib.pyplot as plt
+import scipy as sc
 
 dirs = os.listdir(".")
 print("\n".join(dirs))
